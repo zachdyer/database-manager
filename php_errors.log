@@ -1,0 +1,549 @@
+[28-Jun-2017 05:48:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/general.php on line 8
+[28-Jun-2017 05:48:54 UTC] PHP Stack trace:
+[28-Jun-2017 05:48:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:48:54 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[28-Jun-2017 05:48:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/pages/dashboard.php on line 37
+[28-Jun-2017 05:48:54 UTC] PHP Stack trace:
+[28-Jun-2017 05:48:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:48:54 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[28-Jun-2017 05:48:54 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/php/general.php:53
+[28-Jun-2017 05:52:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/general.php on line 8
+[28-Jun-2017 05:52:49 UTC] PHP Stack trace:
+[28-Jun-2017 05:52:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:52:49 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[28-Jun-2017 05:52:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/pages/dashboard.php on line 37
+[28-Jun-2017 05:52:49 UTC] PHP Stack trace:
+[28-Jun-2017 05:52:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:52:49 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[28-Jun-2017 05:52:49 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/php/general.php:53
+[28-Jun-2017 05:52:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/general.php on line 8
+[28-Jun-2017 05:52:51 UTC] PHP Stack trace:
+[28-Jun-2017 05:52:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:52:51 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[28-Jun-2017 05:52:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/pages/dashboard.php on line 37
+[28-Jun-2017 05:52:51 UTC] PHP Stack trace:
+[28-Jun-2017 05:52:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:52:51 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[28-Jun-2017 05:52:51 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/php/general.php:53
+[28-Jun-2017 05:54:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/general.php on line 9
+[28-Jun-2017 05:54:36 UTC] PHP Stack trace:
+[28-Jun-2017 05:54:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:54:36 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[28-Jun-2017 05:54:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/pages/dashboard.php on line 37
+[28-Jun-2017 05:54:36 UTC] PHP Stack trace:
+[28-Jun-2017 05:54:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:54:36 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[28-Jun-2017 05:54:36 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/php/general.php:54
+[28-Jun-2017 05:57:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/general.php on line 10
+[28-Jun-2017 05:57:03 UTC] PHP Stack trace:
+[28-Jun-2017 05:57:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:57:03 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[28-Jun-2017 05:57:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/pages/dashboard.php on line 37
+[28-Jun-2017 05:57:03 UTC] PHP Stack trace:
+[28-Jun-2017 05:57:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:57:03 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[28-Jun-2017 05:57:03 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/php/general.php:55
+[28-Jun-2017 05:59:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/general.php on line 8
+[28-Jun-2017 05:59:12 UTC] PHP Stack trace:
+[28-Jun-2017 05:59:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:59:12 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[28-Jun-2017 05:59:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/pages/dashboard.php on line 37
+[28-Jun-2017 05:59:12 UTC] PHP Stack trace:
+[28-Jun-2017 05:59:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:59:12 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[28-Jun-2017 05:59:12 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/php/general.php:53
+[28-Jun-2017 05:59:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/general.php on line 10
+[28-Jun-2017 05:59:49 UTC] PHP Stack trace:
+[28-Jun-2017 05:59:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:59:49 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[28-Jun-2017 05:59:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/pages/dashboard.php on line 37
+[28-Jun-2017 05:59:49 UTC] PHP Stack trace:
+[28-Jun-2017 05:59:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 05:59:49 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[28-Jun-2017 05:59:49 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/php/general.php:55
+[28-Jun-2017 06:00:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/general.php on line 10
+[28-Jun-2017 06:00:42 UTC] PHP Stack trace:
+[28-Jun-2017 06:00:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:00:42 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[28-Jun-2017 06:00:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/pages/dashboard.php on line 37
+[28-Jun-2017 06:00:42 UTC] PHP Stack trace:
+[28-Jun-2017 06:00:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:00:42 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[28-Jun-2017 06:00:42 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/php/general.php:55
+[28-Jun-2017 06:02:22 UTC] PHP Fatal error:  Call to undefined function get_file_contents() in /home/ubuntu/workspace/database-manager/php/general.php on line 4
+[28-Jun-2017 06:02:22 UTC] PHP Stack trace:
+[28-Jun-2017 06:02:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:02:22 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[28-Jun-2017 06:02:22 UTC] PHP   3. get_database_dir() /home/ubuntu/workspace/database-manager/php/general.php:9
+[28-Jun-2017 06:03:08 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/ubuntu/workspace/database-manager/php/general.php on line 17
+[28-Jun-2017 06:03:08 UTC] PHP Stack trace:
+[28-Jun-2017 06:03:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:03:08 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[28-Jun-2017 06:22:28 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/ubuntu/workspace/database-manager/php/general.php on line 35
+[28-Jun-2017 06:22:28 UTC] PHP Stack trace:
+[28-Jun-2017 06:22:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:24:31 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/database-manager/php/general.php on line 36
+[28-Jun-2017 06:24:31 UTC] PHP Stack trace:
+[28-Jun-2017 06:24:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:24:31 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[28-Jun-2017 06:24:31 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/php/general.php:36
+[28-Jun-2017 06:54:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/database-manager/php/pages/new-database.php on line 2
+[28-Jun-2017 06:54:09 UTC] PHP Stack trace:
+[28-Jun-2017 06:54:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:54:09 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:124
+[28-Jun-2017 06:54:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/database-manager/php/pages/new-database.php on line 2
+[28-Jun-2017 06:54:28 UTC] PHP Stack trace:
+[28-Jun-2017 06:54:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:54:28 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:124
+[28-Jun-2017 06:55:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/database-manager/php/pages/new-database.php on line 3
+[28-Jun-2017 06:55:12 UTC] PHP Stack trace:
+[28-Jun-2017 06:55:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:55:12 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:124
+[28-Jun-2017 06:55:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/database-manager/php/pages/new-database.php on line 3
+[28-Jun-2017 06:55:14 UTC] PHP Stack trace:
+[28-Jun-2017 06:55:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:55:14 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:124
+[28-Jun-2017 06:58:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/database-manager/php/pages/new-database.php on line 3
+[28-Jun-2017 06:58:08 UTC] PHP Stack trace:
+[28-Jun-2017 06:58:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:58:08 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[28-Jun-2017 06:59:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/database-manager/php/pages/new-database.php on line 3
+[28-Jun-2017 06:59:20 UTC] PHP Stack trace:
+[28-Jun-2017 06:59:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 06:59:20 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[28-Jun-2017 07:00:34 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /home/ubuntu/workspace/database-manager/php/pages/new-database.php on line 2
+[28-Jun-2017 07:00:34 UTC] PHP Stack trace:
+[28-Jun-2017 07:00:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[28-Jun-2017 07:00:34 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:121
+[29-Jun-2017 16:41:17 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspacetest/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 4
+[29-Jun-2017 16:41:17 UTC] PHP Stack trace:
+[29-Jun-2017 16:41:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[29-Jun-2017 16:41:17 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[29-Jun-2017 16:41:17 UTC] PHP   3. get_database_dir() /home/ubuntu/workspace/database-manager/php/general.php:9
+[29-Jun-2017 16:41:17 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/php/general.php:4
+[29-Jun-2017 16:41:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/general.php on line 9
+[29-Jun-2017 16:41:17 UTC] PHP Stack trace:
+[29-Jun-2017 16:41:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[29-Jun-2017 16:41:17 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:88
+[20-Jul-2017 12:58:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/php/general.php on line 9
+[20-Jul-2017 12:58:40 UTC] PHP Stack trace:
+[20-Jul-2017 12:58:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[20-Jul-2017 12:58:40 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[20-Jul-2017 15:04:19 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/database-manager/php/general.php on line 37
+[20-Jul-2017 15:04:19 UTC] PHP Stack trace:
+[20-Jul-2017 15:04:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[20-Jul-2017 15:04:19 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[20-Jul-2017 15:04:19 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/php/general.php:37
+[20-Jul-2017 15:04:23 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/database-manager/php/general.php on line 37
+[20-Jul-2017 15:04:23 UTC] PHP Stack trace:
+[20-Jul-2017 15:04:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[20-Jul-2017 15:04:23 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[20-Jul-2017 15:04:23 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/php/general.php:37
+[20-Jul-2017 15:04:29 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/database-manager/php/general.php on line 37
+[20-Jul-2017 15:04:29 UTC] PHP Stack trace:
+[20-Jul-2017 15:04:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[20-Jul-2017 15:04:29 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[20-Jul-2017 15:04:29 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/php/general.php:37
+[21-Jul-2017 14:19:27 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/database-manager/php/general.php on line 37
+[21-Jul-2017 14:19:27 UTC] PHP Stack trace:
+[21-Jul-2017 14:19:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jul-2017 14:19:27 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[21-Jul-2017 14:19:27 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/php/general.php:37
+[21-Jul-2017 14:19:35 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/database-manager/php/general.php on line 37
+[21-Jul-2017 14:19:35 UTC] PHP Stack trace:
+[21-Jul-2017 14:19:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[21-Jul-2017 14:19:35 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[21-Jul-2017 14:19:35 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/php/general.php:37
+[03-Aug-2017 14:39:24 UTC] PHP Warning:  include(../database-manager/php/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/index.php on line 3
+[03-Aug-2017 14:39:24 UTC] PHP Stack trace:
+[03-Aug-2017 14:39:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 14:39:24 UTC] PHP Warning:  include(): Failed opening '../database-manager/php/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/index.php on line 3
+[03-Aug-2017 14:39:24 UTC] PHP Stack trace:
+[03-Aug-2017 14:39:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 14:39:24 UTC] PHP Fatal error:  Call to undefined function db_exist() in /home/ubuntu/workspace/public/index.php on line 9
+[03-Aug-2017 14:39:24 UTC] PHP Stack trace:
+[03-Aug-2017 14:39:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 14:42:00 UTC] PHP Warning:  include(../includes/db-table.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 14:42:00 UTC] PHP Stack trace:
+[03-Aug-2017 14:42:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 14:42:00 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 14:42:00 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 14:42:00 UTC] PHP Warning:  include(): Failed opening '../includes/db-table.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 14:42:00 UTC] PHP Stack trace:
+[03-Aug-2017 14:42:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 14:42:00 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 14:42:00 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 15:30:25 UTC] PHP Warning:  include(../includes/db-table.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 15:30:25 UTC] PHP Stack trace:
+[03-Aug-2017 15:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 15:30:25 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 15:30:25 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 15:30:25 UTC] PHP Warning:  include(): Failed opening '../includes/db-table.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 15:30:25 UTC] PHP Stack trace:
+[03-Aug-2017 15:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 15:30:25 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 15:30:25 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 15:32:52 UTC] PHP Warning:  include(/includes/db-table.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 15:32:52 UTC] PHP Stack trace:
+[03-Aug-2017 15:32:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 15:32:52 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 15:32:52 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 15:32:52 UTC] PHP Warning:  include(): Failed opening '/includes/db-table.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 15:32:52 UTC] PHP Stack trace:
+[03-Aug-2017 15:32:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 15:32:52 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 15:32:52 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 15:33:12 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db-table.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 15:33:12 UTC] PHP Stack trace:
+[03-Aug-2017 15:33:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 15:33:12 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 15:33:12 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 15:33:12 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db-table.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 15:33:12 UTC] PHP Stack trace:
+[03-Aug-2017 15:33:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 15:33:12 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 15:33:12 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 16:10:40 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/database-manager/general.php on line 37
+[03-Aug-2017 16:10:40 UTC] PHP Stack trace:
+[03-Aug-2017 16:10:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 16:10:40 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[03-Aug-2017 16:10:40 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/general.php:37
+[03-Aug-2017 16:10:40 UTC] PHP Warning:  include(/home/ubuntu/workspace/database-manager/includes/db-table.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 16:10:40 UTC] PHP Stack trace:
+[03-Aug-2017 16:10:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 16:10:40 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 16:10:40 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 16:10:40 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/database-manager/includes/db-table.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 16:10:40 UTC] PHP Stack trace:
+[03-Aug-2017 16:10:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 16:10:40 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 16:10:40 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 16:11:02 UTC] PHP Warning:  include(/home/ubuntu/workspace/database-manager/includes/db-table.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 16:11:02 UTC] PHP Stack trace:
+[03-Aug-2017 16:11:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 16:11:02 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 16:11:02 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[03-Aug-2017 16:11:02 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/database-manager/includes/db-table.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/database-manager/views/pages/new-database.php on line 13
+[03-Aug-2017 16:11:02 UTC] PHP Stack trace:
+[03-Aug-2017 16:11:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[03-Aug-2017 16:11:02 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[03-Aug-2017 16:11:02 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[04-Aug-2017 04:38:56 UTC] PHP Warning:  include(/database-manager/views/includes/db-table.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/views/pages/dashboard.php on line 27
+[04-Aug-2017 04:38:56 UTC] PHP Stack trace:
+[04-Aug-2017 04:38:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[04-Aug-2017 04:38:56 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[04-Aug-2017 04:38:56 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[04-Aug-2017 04:38:56 UTC] PHP Warning:  include(): Failed opening '/database-manager/views/includes/db-table.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/database-manager/views/pages/dashboard.php on line 27
+[04-Aug-2017 04:38:56 UTC] PHP Stack trace:
+[04-Aug-2017 04:38:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[04-Aug-2017 04:38:56 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[04-Aug-2017 04:38:56 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:72
+[05-Aug-2017 23:06:13 UTC] PHP Warning:  include(../database-manager/views/pages/settings.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 72
+[05-Aug-2017 23:06:13 UTC] PHP Stack trace:
+[05-Aug-2017 23:06:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[05-Aug-2017 23:06:13 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[05-Aug-2017 23:06:13 UTC] PHP Warning:  include(): Failed opening '../database-manager/views/pages/settings.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/database-manager/general.php on line 72
+[05-Aug-2017 23:06:13 UTC] PHP Stack trace:
+[05-Aug-2017 23:06:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[05-Aug-2017 23:06:13 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[05-Aug-2017 23:06:18 UTC] PHP Warning:  include(../database-manager/views/pages/profile.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 72
+[05-Aug-2017 23:06:18 UTC] PHP Stack trace:
+[05-Aug-2017 23:06:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[05-Aug-2017 23:06:18 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[05-Aug-2017 23:06:18 UTC] PHP Warning:  include(): Failed opening '../database-manager/views/pages/profile.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/database-manager/general.php on line 72
+[05-Aug-2017 23:06:18 UTC] PHP Stack trace:
+[05-Aug-2017 23:06:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[05-Aug-2017 23:06:18 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[05-Aug-2017 23:16:38 UTC] PHP Warning:  include(../database-manager/views/pages/help.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 72
+[05-Aug-2017 23:16:38 UTC] PHP Stack trace:
+[05-Aug-2017 23:16:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[05-Aug-2017 23:16:38 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[05-Aug-2017 23:16:38 UTC] PHP Warning:  include(): Failed opening '../database-manager/views/pages/help.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/database-manager/general.php on line 72
+[05-Aug-2017 23:16:38 UTC] PHP Stack trace:
+[05-Aug-2017 23:16:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[05-Aug-2017 23:16:38 UTC] PHP   2. content() /home/ubuntu/workspace/public/index.php:122
+[16-Sep-2017 14:20:52 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:20:52 UTC] PHP Stack trace:
+[16-Sep-2017 14:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:20:52 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:20:52 UTC] PHP   3. get_database_dir() /home/ubuntu/workspace/database-manager/general.php:9
+[16-Sep-2017 14:20:52 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:20:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 9
+[16-Sep-2017 14:20:52 UTC] PHP Stack trace:
+[16-Sep-2017 14:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:20:52 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:22:33 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:22:33 UTC] PHP Stack trace:
+[16-Sep-2017 14:22:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:22:33 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:22:33 UTC] PHP   3. get_database_dir() /home/ubuntu/workspace/database-manager/general.php:9
+[16-Sep-2017 14:22:33 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:22:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 9
+[16-Sep-2017 14:22:33 UTC] PHP Stack trace:
+[16-Sep-2017 14:22:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:22:33 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:22:36 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:22:36 UTC] PHP Stack trace:
+[16-Sep-2017 14:22:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:22:36 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:22:36 UTC] PHP   3. get_database_dir() /home/ubuntu/workspace/database-manager/general.php:9
+[16-Sep-2017 14:22:36 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:22:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 9
+[16-Sep-2017 14:22:36 UTC] PHP Stack trace:
+[16-Sep-2017 14:22:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:22:36 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:25:40 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:25:40 UTC] PHP Stack trace:
+[16-Sep-2017 14:25:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:25:40 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:25:40 UTC] PHP   3. get_database_dir() /home/ubuntu/workspace/database-manager/general.php:9
+[16-Sep-2017 14:25:40 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:25:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 9
+[16-Sep-2017 14:25:40 UTC] PHP Stack trace:
+[16-Sep-2017 14:25:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:25:40 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:25:52 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:25:52 UTC] PHP Stack trace:
+[16-Sep-2017 14:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:25:52 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:25:52 UTC] PHP   3. get_database_dir() /home/ubuntu/workspace/database-manager/general.php:9
+[16-Sep-2017 14:25:52 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:25:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 9
+[16-Sep-2017 14:25:52 UTC] PHP Stack trace:
+[16-Sep-2017 14:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:25:52 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:45:11 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 76
+[16-Sep-2017 14:45:11 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:45:11 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:45:11 UTC] PHP   3. get_json() /home/ubuntu/workspace/database-manager/general.php:33
+[16-Sep-2017 14:45:11 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:76
+[16-Sep-2017 14:45:11 UTC] PHP Warning:  end() expects parameter 1 to be array, null given in /home/ubuntu/workspace/database-manager/general.php on line 34
+[16-Sep-2017 14:45:11 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:45:11 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:45:11 UTC] PHP   3. end() /home/ubuntu/workspace/database-manager/general.php:34
+[16-Sep-2017 14:45:11 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/database-manager/general.php on line 35
+[16-Sep-2017 14:45:11 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:45:11 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:45:11 UTC] PHP   3. array_push() /home/ubuntu/workspace/database-manager/general.php:35
+[16-Sep-2017 14:45:11 UTC] PHP Warning:  mkdir(): No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 37
+[16-Sep-2017 14:45:11 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:45:11 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:45:11 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/general.php:37
+[16-Sep-2017 14:45:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 9
+[16-Sep-2017 14:45:11 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:45:11 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:45:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 60
+[16-Sep-2017 14:45:57 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:45:57 UTC] PHP   2. db_exist() /home/ubuntu/workspace/public/index.php:9
+[16-Sep-2017 14:45:57 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 76
+[16-Sep-2017 14:45:57 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:45:57 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:45:57 UTC] PHP   3. get_json() /home/ubuntu/workspace/database-manager/general.php:33
+[16-Sep-2017 14:45:57 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:76
+[16-Sep-2017 14:45:57 UTC] PHP Warning:  end() expects parameter 1 to be array, null given in /home/ubuntu/workspace/database-manager/general.php on line 34
+[16-Sep-2017 14:45:57 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:45:57 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:45:57 UTC] PHP   3. end() /home/ubuntu/workspace/database-manager/general.php:34
+[16-Sep-2017 14:45:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/database-manager/general.php on line 35
+[16-Sep-2017 14:45:57 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:45:57 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:45:57 UTC] PHP   3. array_push() /home/ubuntu/workspace/database-manager/general.php:35
+[16-Sep-2017 14:45:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 9
+[16-Sep-2017 14:45:57 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:45:57 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:46:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 60
+[16-Sep-2017 14:46:10 UTC] PHP Stack trace:
+[16-Sep-2017 14:46:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:46:10 UTC] PHP   2. db_exist() /home/ubuntu/workspace/public/index.php:9
+[16-Sep-2017 14:46:10 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 76
+[16-Sep-2017 14:46:10 UTC] PHP Stack trace:
+[16-Sep-2017 14:46:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:46:10 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:46:10 UTC] PHP   3. get_json() /home/ubuntu/workspace/database-manager/general.php:33
+[16-Sep-2017 14:46:10 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:76
+[16-Sep-2017 14:46:10 UTC] PHP Warning:  end() expects parameter 1 to be array, null given in /home/ubuntu/workspace/database-manager/general.php on line 34
+[16-Sep-2017 14:46:10 UTC] PHP Stack trace:
+[16-Sep-2017 14:46:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:46:10 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:46:10 UTC] PHP   3. end() /home/ubuntu/workspace/database-manager/general.php:34
+[16-Sep-2017 14:46:10 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/database-manager/general.php on line 35
+[16-Sep-2017 14:46:10 UTC] PHP Stack trace:
+[16-Sep-2017 14:46:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:46:10 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:46:10 UTC] PHP   3. array_push() /home/ubuntu/workspace/database-manager/general.php:35
+[16-Sep-2017 14:46:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 9
+[16-Sep-2017 14:46:10 UTC] PHP Stack trace:
+[16-Sep-2017 14:46:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:46:10 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:48:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 9
+[16-Sep-2017 14:48:10 UTC] PHP Stack trace:
+[16-Sep-2017 14:48:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:48:10 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:49:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 10
+[16-Sep-2017 14:49:23 UTC] PHP Stack trace:
+[16-Sep-2017 14:49:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:49:23 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:50:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 10
+[16-Sep-2017 14:50:04 UTC] PHP Stack trace:
+[16-Sep-2017 14:50:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:50:04 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:50:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 10
+[16-Sep-2017 14:50:58 UTC] PHP Stack trace:
+[16-Sep-2017 14:50:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:50:58 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:51:32 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 77
+[16-Sep-2017 14:51:32 UTC] PHP Stack trace:
+[16-Sep-2017 14:51:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:51:32 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:51:32 UTC] PHP   3. get_json() /home/ubuntu/workspace/database-manager/general.php:34
+[16-Sep-2017 14:51:32 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:77
+[16-Sep-2017 14:51:32 UTC] PHP Warning:  end() expects parameter 1 to be array, null given in /home/ubuntu/workspace/database-manager/general.php on line 35
+[16-Sep-2017 14:51:32 UTC] PHP Stack trace:
+[16-Sep-2017 14:51:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:51:32 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:51:32 UTC] PHP   3. end() /home/ubuntu/workspace/database-manager/general.php:35
+[16-Sep-2017 14:51:32 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/database-manager/general.php on line 36
+[16-Sep-2017 14:51:32 UTC] PHP Stack trace:
+[16-Sep-2017 14:51:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:51:32 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:51:32 UTC] PHP   3. array_push() /home/ubuntu/workspace/database-manager/general.php:36
+[16-Sep-2017 14:51:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 10
+[16-Sep-2017 14:51:32 UTC] PHP Stack trace:
+[16-Sep-2017 14:51:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:51:32 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:53:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 61
+[16-Sep-2017 14:53:49 UTC] PHP Stack trace:
+[16-Sep-2017 14:53:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:53:49 UTC] PHP   2. db_exist() /home/ubuntu/workspace/public/index.php:9
+[16-Sep-2017 14:53:49 UTC] PHP Warning:  end() expects parameter 1 to be array, null given in /home/ubuntu/workspace/database-manager/general.php on line 35
+[16-Sep-2017 14:53:49 UTC] PHP Stack trace:
+[16-Sep-2017 14:53:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:53:49 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:53:49 UTC] PHP   3. end() /home/ubuntu/workspace/database-manager/general.php:35
+[16-Sep-2017 14:53:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/database-manager/general.php on line 36
+[16-Sep-2017 14:53:49 UTC] PHP Stack trace:
+[16-Sep-2017 14:53:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:53:49 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:53:49 UTC] PHP   3. array_push() /home/ubuntu/workspace/database-manager/general.php:36
+[16-Sep-2017 14:53:49 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/database-manager/general.php on line 38
+[16-Sep-2017 14:53:49 UTC] PHP Stack trace:
+[16-Sep-2017 14:53:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:53:49 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:53:49 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/general.php:38
+[16-Sep-2017 14:53:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 10
+[16-Sep-2017 14:53:49 UTC] PHP Stack trace:
+[16-Sep-2017 14:53:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:53:49 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:54:01 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/database-manager/general.php on line 38
+[16-Sep-2017 14:54:01 UTC] PHP Stack trace:
+[16-Sep-2017 14:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:54:01 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:54:01 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/general.php:38
+[16-Sep-2017 14:55:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 59
+[16-Sep-2017 14:55:37 UTC] PHP Stack trace:
+[16-Sep-2017 14:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:55:37 UTC] PHP   2. db_exist() /home/ubuntu/workspace/public/index.php:9
+[16-Sep-2017 14:55:37 UTC] PHP Warning:  mkdir(): File exists in /home/ubuntu/workspace/database-manager/general.php on line 36
+[16-Sep-2017 14:55:37 UTC] PHP Stack trace:
+[16-Sep-2017 14:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:55:37 UTC] PHP   2. create_db() /home/ubuntu/workspace/public/index.php:12
+[16-Sep-2017 14:55:37 UTC] PHP   3. mkdir() /home/ubuntu/workspace/database-manager/general.php:36
+[16-Sep-2017 14:55:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 8
+[16-Sep-2017 14:55:37 UTC] PHP Stack trace:
+[16-Sep-2017 14:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:55:37 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 14:56:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 59
+[16-Sep-2017 14:56:28 UTC] PHP Stack trace:
+[16-Sep-2017 14:56:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:56:28 UTC] PHP   2. db_exist() /home/ubuntu/workspace/public/index.php:9
+[16-Sep-2017 14:56:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 8
+[16-Sep-2017 14:56:28 UTC] PHP Stack trace:
+[16-Sep-2017 14:56:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 14:56:28 UTC] PHP   2. get_database_menu() /home/ubuntu/workspace/public/index.php:89
+[16-Sep-2017 15:01:07 UTC] PHP Parse error:  syntax error, unexpected '/', expecting \\ (T_NS_SEPARATOR) or ';' or '{' in /home/ubuntu/workspace/database-manager/general.php on line 2
+[16-Sep-2017 15:01:07 UTC] PHP Stack trace:
+[16-Sep-2017 15:01:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:04:47 UTC] PHP Fatal error:  Call to undefined function menu_active() in /home/ubuntu/workspace/public/index.php on line 59
+[16-Sep-2017 15:04:47 UTC] PHP Stack trace:
+[16-Sep-2017 15:04:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:05:45 UTC] PHP Fatal error:  Call to undefined function menu_active() in /home/ubuntu/workspace/public/index.php on line 59
+[16-Sep-2017 15:05:45 UTC] PHP Stack trace:
+[16-Sep-2017 15:05:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:06:21 UTC] PHP Fatal error:  Call to undefined function menu_active() in /home/ubuntu/workspace/public/index.php on line 59
+[16-Sep-2017 15:06:21 UTC] PHP Stack trace:
+[16-Sep-2017 15:06:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:06:37 UTC] PHP Fatal error:  Call to undefined function menu_active() in /home/ubuntu/workspace/public/index.php on line 59
+[16-Sep-2017 15:06:37 UTC] PHP Stack trace:
+[16-Sep-2017 15:06:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:06:56 UTC] PHP Fatal error:  Call to undefined function menu_active() in /home/ubuntu/workspace/public/index.php on line 59
+[16-Sep-2017 15:06:56 UTC] PHP Stack trace:
+[16-Sep-2017 15:06:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:09:21 UTC] PHP Fatal error:  Call to undefined function get_db_json() in /home/ubuntu/workspace/database-manager/views/pages/db.php on line 40
+[16-Sep-2017 15:09:21 UTC] PHP Stack trace:
+[16-Sep-2017 15:09:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:09:21 UTC] PHP   2. dbm\general\content() /home/ubuntu/workspace/public/index.php:122
+[16-Sep-2017 15:09:21 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:74
+[16-Sep-2017 15:10:18 UTC] PHP Fatal error:  Call to undefined function get_db_json() in /home/ubuntu/workspace/database-manager/views/pages/db.php on line 40
+[16-Sep-2017 15:10:18 UTC] PHP Stack trace:
+[16-Sep-2017 15:10:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:10:18 UTC] PHP   2. dbm\general\content() /home/ubuntu/workspace/public/index.php:122
+[16-Sep-2017 15:10:18 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:74
+[16-Sep-2017 15:10:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in /home/ubuntu/workspace/database-manager/general.php on line 83
+[16-Sep-2017 15:10:59 UTC] PHP Stack trace:
+[16-Sep-2017 15:10:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:11:19 UTC] PHP Fatal error:  Undefined constant 'dbm\general' in /home/ubuntu/workspace/database-manager/general.php on line 83
+[16-Sep-2017 15:11:19 UTC] PHP Stack trace:
+[16-Sep-2017 15:11:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:11:19 UTC] PHP   2. dbm\general\content() /home/ubuntu/workspace/public/index.php:122
+[16-Sep-2017 15:11:19 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:74
+[16-Sep-2017 15:11:19 UTC] PHP   4. dbm\general\get_db_json() /home/ubuntu/workspace/database-manager/views/pages/db.php:40
+[16-Sep-2017 15:22:22 UTC] PHP Fatal error:  Undefined constant 'dbm\general\dbm\general' in /home/ubuntu/workspace/database-manager/general.php on line 83
+[16-Sep-2017 15:22:22 UTC] PHP Stack trace:
+[16-Sep-2017 15:22:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 15:22:22 UTC] PHP   2. dbm\general\content() /home/ubuntu/workspace/public/index.php:122
+[16-Sep-2017 15:22:22 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:74
+[16-Sep-2017 15:22:22 UTC] PHP   4. dbm\general\get_db_json() /home/ubuntu/workspace/database-manager/views/pages/db.php:40
+[16-Sep-2017 20:25:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/database-manager/general.php on line 93
+[16-Sep-2017 20:25:47 UTC] PHP Stack trace:
+[16-Sep-2017 20:25:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 20:56:26 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING) in /home/ubuntu/workspace/database-manager/general.php on line 90
+[16-Sep-2017 20:56:26 UTC] PHP Stack trace:
+[16-Sep-2017 20:56:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 21:41:55 UTC] PHP Fatal error:  Call to undefined function dbm\general\get_json_records() in /home/ubuntu/workspace/database-manager/views/pages/json.php on line 41
+[16-Sep-2017 21:41:55 UTC] PHP Stack trace:
+[16-Sep-2017 21:41:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 21:41:55 UTC] PHP   2. dbm\general\content() /home/ubuntu/workspace/public/index.php:122
+[16-Sep-2017 21:41:55 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:74
+[16-Sep-2017 21:42:24 UTC] PHP Fatal error:  Call to undefined function dbm\general\get_json_records() in /home/ubuntu/workspace/database-manager/views/pages/json.php on line 36
+[16-Sep-2017 21:42:24 UTC] PHP Stack trace:
+[16-Sep-2017 21:42:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 21:42:24 UTC] PHP   2. dbm\general\content() /home/ubuntu/workspace/public/index.php:122
+[16-Sep-2017 21:42:24 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/general.php:74
+[16-Sep-2017 22:31:42 UTC] PHP Fatal error:  Call to undefined function dbm\general\menu_active() in /home/ubuntu/workspace/public/index.php on line 60
+[16-Sep-2017 22:31:42 UTC] PHP Stack trace:
+[16-Sep-2017 22:31:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 22:32:38 UTC] PHP Fatal error:  Call to undefined function dbm\general\get_db_json() in /home/ubuntu/workspace/database-manager/views/pages/db.php on line 40
+[16-Sep-2017 22:32:38 UTC] PHP Stack trace:
+[16-Sep-2017 22:32:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 22:32:38 UTC] PHP   2. dbm\content() /home/ubuntu/workspace/public/index.php:123
+[16-Sep-2017 22:32:38 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/dbm.php:74
+[16-Sep-2017 22:33:59 UTC] PHP Fatal error:  Call to undefined function dbm\general\get_json_fields() in /home/ubuntu/workspace/database-manager/views/pages/json.php on line 32
+[16-Sep-2017 22:33:59 UTC] PHP Stack trace:
+[16-Sep-2017 22:33:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 22:33:59 UTC] PHP   2. dbm\content() /home/ubuntu/workspace/public/index.php:123
+[16-Sep-2017 22:33:59 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/dbm.php:74
+[16-Sep-2017 22:34:37 UTC] PHP Fatal error:  Call to undefined function dbm\get_fields() in /home/ubuntu/workspace/database-manager/views/pages/json.php on line 32
+[16-Sep-2017 22:34:37 UTC] PHP Stack trace:
+[16-Sep-2017 22:34:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[16-Sep-2017 22:34:37 UTC] PHP   2. dbm\content() /home/ubuntu/workspace/public/index.php:123
+[16-Sep-2017 22:34:37 UTC] PHP   3. include() /home/ubuntu/workspace/database-manager/dbm.php:74

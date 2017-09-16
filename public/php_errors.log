@@ -1,0 +1,900 @@
+[29-Jun-2017 16:27:01 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 1
+[29-Jun-2017 16:27:01 UTC] PHP Stack trace:
+[29-Jun-2017 16:27:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 16:32:12 UTC] PHP Warning:  file_get_contents(/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 4
+[29-Jun-2017 16:32:12 UTC] PHP Stack trace:
+[29-Jun-2017 16:32:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 16:32:12 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:3
+[29-Jun-2017 16:32:12 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/php/general.php:4
+[29-Jun-2017 16:32:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[29-Jun-2017 16:32:12 UTC] PHP Stack trace:
+[29-Jun-2017 16:32:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 16:40:12 UTC] PHP Warning:  file_get_contents(/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 4
+[29-Jun-2017 16:40:12 UTC] PHP Stack trace:
+[29-Jun-2017 16:40:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 16:40:12 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:3
+[29-Jun-2017 16:40:12 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/php/general.php:4
+[29-Jun-2017 16:40:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[29-Jun-2017 16:40:12 UTC] PHP Stack trace:
+[29-Jun-2017 16:40:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 16:41:17 UTC] PHP Warning:  file_get_contents(test/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 4
+[29-Jun-2017 16:41:17 UTC] PHP Stack trace:
+[29-Jun-2017 16:41:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 16:41:17 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:3
+[29-Jun-2017 16:41:17 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/php/general.php:4
+[29-Jun-2017 16:41:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[29-Jun-2017 16:41:17 UTC] PHP Stack trace:
+[29-Jun-2017 16:41:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 16:41:36 UTC] PHP Warning:  file_get_contents(/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 4
+[29-Jun-2017 16:41:36 UTC] PHP Stack trace:
+[29-Jun-2017 16:41:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 16:41:36 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:3
+[29-Jun-2017 16:41:36 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/php/general.php:4
+[29-Jun-2017 16:41:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[29-Jun-2017 16:41:36 UTC] PHP Stack trace:
+[29-Jun-2017 16:41:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 17:43:25 UTC] PHP Warning:  file_get_contents(/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 4
+[29-Jun-2017 17:43:25 UTC] PHP Stack trace:
+[29-Jun-2017 17:43:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 17:43:25 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:3
+[29-Jun-2017 17:43:25 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/php/general.php:4
+[29-Jun-2017 17:43:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[29-Jun-2017 17:43:25 UTC] PHP Stack trace:
+[29-Jun-2017 17:43:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 17:44:32 UTC] PHP Warning:  include(../../database-manager/php/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 2
+[29-Jun-2017 17:44:32 UTC] PHP Stack trace:
+[29-Jun-2017 17:44:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 17:44:32 UTC] PHP Warning:  include(): Failed opening '../../database-manager/php/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 2
+[29-Jun-2017 17:44:32 UTC] PHP Stack trace:
+[29-Jun-2017 17:44:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 17:44:32 UTC] PHP Warning:  file_get_contents(/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 4
+[29-Jun-2017 17:44:32 UTC] PHP Stack trace:
+[29-Jun-2017 17:44:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[29-Jun-2017 17:44:32 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:4
+[29-Jun-2017 17:44:32 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/php/general.php:4
+[29-Jun-2017 17:44:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[29-Jun-2017 17:44:32 UTC] PHP Stack trace:
+[29-Jun-2017 17:44:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[07-Jul-2017 12:29:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[07-Jul-2017 12:29:18 UTC] PHP Stack trace:
+[07-Jul-2017 12:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[07-Jul-2017 12:29:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[07-Jul-2017 12:29:18 UTC] PHP Stack trace:
+[07-Jul-2017 12:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[07-Jul-2017 12:29:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[07-Jul-2017 12:29:18 UTC] PHP Stack trace:
+[07-Jul-2017 12:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[07-Jul-2017 12:29:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[07-Jul-2017 12:29:18 UTC] PHP Stack trace:
+[07-Jul-2017 12:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[07-Jul-2017 12:29:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[07-Jul-2017 12:29:18 UTC] PHP Stack trace:
+[07-Jul-2017 12:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[07-Jul-2017 12:29:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[07-Jul-2017 12:29:18 UTC] PHP Stack trace:
+[07-Jul-2017 12:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[07-Jul-2017 12:29:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[07-Jul-2017 12:29:18 UTC] PHP Stack trace:
+[07-Jul-2017 12:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[07-Jul-2017 12:29:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[07-Jul-2017 12:29:18 UTC] PHP Stack trace:
+[07-Jul-2017 12:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[07-Jul-2017 12:29:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[07-Jul-2017 12:29:18 UTC] PHP Stack trace:
+[07-Jul-2017 12:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:22:03 UTC] PHP Stack trace:
+[09-Jul-2017 19:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:22:03 UTC] PHP Stack trace:
+[09-Jul-2017 19:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:22:03 UTC] PHP Stack trace:
+[09-Jul-2017 19:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:22:03 UTC] PHP Stack trace:
+[09-Jul-2017 19:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:22:03 UTC] PHP Stack trace:
+[09-Jul-2017 19:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:22:03 UTC] PHP Stack trace:
+[09-Jul-2017 19:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:22:03 UTC] PHP Stack trace:
+[09-Jul-2017 19:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:22:03 UTC] PHP Stack trace:
+[09-Jul-2017 19:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:22:03 UTC] PHP Stack trace:
+[09-Jul-2017 19:22:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:25:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 9
+[09-Jul-2017 19:25:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 9
+[09-Jul-2017 19:25:11 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 9
+[09-Jul-2017 19:25:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 9
+[09-Jul-2017 19:25:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 9
+[09-Jul-2017 19:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:27:00 UTC] PHP Stack trace:
+[09-Jul-2017 19:27:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:27:00 UTC] PHP Stack trace:
+[09-Jul-2017 19:27:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:27:00 UTC] PHP Stack trace:
+[09-Jul-2017 19:27:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:27:00 UTC] PHP Stack trace:
+[09-Jul-2017 19:27:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:27:00 UTC] PHP Stack trace:
+[09-Jul-2017 19:27:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:27:00 UTC] PHP Stack trace:
+[09-Jul-2017 19:27:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:27:00 UTC] PHP Stack trace:
+[09-Jul-2017 19:27:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:27:00 UTC] PHP Stack trace:
+[09-Jul-2017 19:27:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[09-Jul-2017 19:27:00 UTC] PHP Stack trace:
+[09-Jul-2017 19:27:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:06 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:06 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:06 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:06 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:06 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:06 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:06 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:06 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:06 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:44 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:44 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:44 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:44 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:44 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:44 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:44 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:44 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:28:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:28:44 UTC] PHP Stack trace:
+[09-Jul-2017 19:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:33 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:33 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:33 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:33 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:33 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:33 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:33 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:33 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:33 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:43 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:43 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:43 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:43 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:43 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:43 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:43 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:43 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:29:43 UTC] PHP Stack trace:
+[09-Jul-2017 19:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:25 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:25 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:25 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:25 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:25 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:25 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:25 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:25 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:25 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:40 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:40 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:40 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:40 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:40 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:40 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:40 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:40 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:30:40 UTC] PHP Stack trace:
+[09-Jul-2017 19:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:31:12 UTC] PHP Stack trace:
+[09-Jul-2017 19:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:31:12 UTC] PHP Stack trace:
+[09-Jul-2017 19:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:31:12 UTC] PHP Stack trace:
+[09-Jul-2017 19:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:31:12 UTC] PHP Stack trace:
+[09-Jul-2017 19:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:31:12 UTC] PHP Stack trace:
+[09-Jul-2017 19:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:31:12 UTC] PHP Stack trace:
+[09-Jul-2017 19:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:31:12 UTC] PHP Stack trace:
+[09-Jul-2017 19:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:31:12 UTC] PHP Stack trace:
+[09-Jul-2017 19:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[09-Jul-2017 19:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[09-Jul-2017 19:31:12 UTC] PHP Stack trace:
+[09-Jul-2017 19:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 11:59:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 11:59:32 UTC] PHP Stack trace:
+[11-Jul-2017 11:59:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 11:59:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 11:59:32 UTC] PHP Stack trace:
+[11-Jul-2017 11:59:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 11:59:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 11:59:32 UTC] PHP Stack trace:
+[11-Jul-2017 11:59:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 11:59:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 11:59:32 UTC] PHP Stack trace:
+[11-Jul-2017 11:59:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 11:59:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 11:59:32 UTC] PHP Stack trace:
+[11-Jul-2017 11:59:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 11:59:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 11:59:32 UTC] PHP Stack trace:
+[11-Jul-2017 11:59:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 11:59:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 11:59:32 UTC] PHP Stack trace:
+[11-Jul-2017 11:59:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 11:59:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 11:59:32 UTC] PHP Stack trace:
+[11-Jul-2017 11:59:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 11:59:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 11:59:32 UTC] PHP Stack trace:
+[11-Jul-2017 11:59:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:00 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:00 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:00 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:00 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:00 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:00 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:00 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:00 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:00 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:51 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:51 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:51 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:51 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:51 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:51 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:51 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:51 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 17:39:51 UTC] PHP Stack trace:
+[11-Jul-2017 17:39:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[11-Jul-2017 17:42:04 UTC] PHP Stack trace:
+[11-Jul-2017 17:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[11-Jul-2017 17:42:04 UTC] PHP Stack trace:
+[11-Jul-2017 17:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[11-Jul-2017 17:42:04 UTC] PHP Stack trace:
+[11-Jul-2017 17:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[11-Jul-2017 17:42:04 UTC] PHP Stack trace:
+[11-Jul-2017 17:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[11-Jul-2017 17:42:04 UTC] PHP Stack trace:
+[11-Jul-2017 17:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[11-Jul-2017 17:42:04 UTC] PHP Stack trace:
+[11-Jul-2017 17:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[11-Jul-2017 17:42:04 UTC] PHP Stack trace:
+[11-Jul-2017 17:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[11-Jul-2017 17:42:04 UTC] PHP Stack trace:
+[11-Jul-2017 17:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:42:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 6
+[11-Jul-2017 17:42:04 UTC] PHP Stack trace:
+[11-Jul-2017 17:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 17:55:21 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:00:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:00:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:01:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:01:57 UTC] PHP Stack trace:
+[11-Jul-2017 18:01:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:01:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:01:57 UTC] PHP Stack trace:
+[11-Jul-2017 18:01:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:01:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:01:57 UTC] PHP Stack trace:
+[11-Jul-2017 18:01:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:01:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:01:57 UTC] PHP Stack trace:
+[11-Jul-2017 18:01:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:01:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:01:57 UTC] PHP Stack trace:
+[11-Jul-2017 18:01:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:01:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:01:57 UTC] PHP Stack trace:
+[11-Jul-2017 18:01:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:01:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:01:57 UTC] PHP Stack trace:
+[11-Jul-2017 18:01:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:01:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:01:57 UTC] PHP Stack trace:
+[11-Jul-2017 18:01:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:01:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:01:57 UTC] PHP Stack trace:
+[11-Jul-2017 18:01:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:02:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:02:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:02:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:02:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:02:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:02:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:02:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:02:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:02:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:02:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:02:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:02:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:02:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:02:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:02:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:02:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:02:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:02:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:02:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:02:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:02:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:02:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:02:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:02:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:02:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 7
+[11-Jul-2017 18:02:31 UTC] PHP Stack trace:
+[11-Jul-2017 18:02:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:09:43 UTC] PHP Warning:  rmdir(../../.data/another-database): No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 90
+[11-Jul-2017 18:09:44 UTC] PHP Stack trace:
+[11-Jul-2017 18:09:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Jul-2017 18:09:44 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:9
+[11-Jul-2017 18:09:44 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/php/general.php:90
+[19-Jul-2017 13:13:04 UTC] PHP Warning:  file_put_contents() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/database-manager/php/general.php on line 95
+[19-Jul-2017 13:13:04 UTC] PHP Stack trace:
+[19-Jul-2017 13:13:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[19-Jul-2017 13:13:04 UTC] PHP   2. updateDatabaseJSON() /home/ubuntu/workspace/public/ajax/ajax.delete.php:9
+[19-Jul-2017 13:13:04 UTC] PHP   3. file_put_contents() /home/ubuntu/workspace/database-manager/php/general.php:95
+[19-Jul-2017 13:13:04 UTC] PHP Warning:  rmdir(../../.data/another-database): No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 90
+[19-Jul-2017 13:13:04 UTC] PHP Stack trace:
+[19-Jul-2017 13:13:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[19-Jul-2017 13:13:04 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[19-Jul-2017 13:13:04 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/php/general.php:90
+[19-Jul-2017 13:13:04 UTC] PHP Warning:  file_put_contents() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/database-manager/php/general.php on line 95
+[19-Jul-2017 13:13:04 UTC] PHP Stack trace:
+[19-Jul-2017 13:13:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[19-Jul-2017 13:13:04 UTC] PHP   2. updateDatabaseJSON() /home/ubuntu/workspace/public/ajax/ajax.delete.php:9
+[19-Jul-2017 13:13:04 UTC] PHP   3. file_put_contents() /home/ubuntu/workspace/database-manager/php/general.php:95
+[19-Jul-2017 13:13:04 UTC] PHP Warning:  rmdir(../../.data/test-database): No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 90
+[19-Jul-2017 13:13:04 UTC] PHP Stack trace:
+[19-Jul-2017 13:13:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[19-Jul-2017 13:13:04 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[19-Jul-2017 13:13:04 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/php/general.php:90
+[19-Jul-2017 13:16:42 UTC] PHP Warning:  file_put_contents(/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 95
+[19-Jul-2017 13:16:42 UTC] PHP Stack trace:
+[19-Jul-2017 13:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[19-Jul-2017 13:16:42 UTC] PHP   2. updateDatabaseJSON() /home/ubuntu/workspace/public/ajax/ajax.delete.php:9
+[19-Jul-2017 13:16:42 UTC] PHP   3. file_put_contents() /home/ubuntu/workspace/database-manager/php/general.php:95
+[19-Jul-2017 13:16:42 UTC] PHP Warning:  rmdir(../../.data/another-database): No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 90
+[19-Jul-2017 13:16:42 UTC] PHP Stack trace:
+[19-Jul-2017 13:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[19-Jul-2017 13:16:42 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[19-Jul-2017 13:16:42 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/php/general.php:90
+[19-Jul-2017 13:18:52 UTC] PHP Warning:  rmdir(../../.data/another-database): No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 90
+[19-Jul-2017 13:18:52 UTC] PHP Stack trace:
+[19-Jul-2017 13:18:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[19-Jul-2017 13:18:52 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[19-Jul-2017 13:18:52 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/php/general.php:90
+[20-Jul-2017 12:54:12 UTC] PHP Warning:  Illegal offset type in unset in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 8
+[20-Jul-2017 12:54:12 UTC] PHP Stack trace:
+[20-Jul-2017 12:54:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[20-Jul-2017 12:54:12 UTC] PHP Warning:  rmdir(../../.data/another-database): No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 90
+[20-Jul-2017 12:54:12 UTC] PHP Stack trace:
+[20-Jul-2017 12:54:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[20-Jul-2017 12:54:12 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[20-Jul-2017 12:54:12 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/php/general.php:90
+[20-Jul-2017 12:54:12 UTC] PHP Warning:  Illegal offset type in unset in /home/ubuntu/workspace/database-manager/php/general.php on line 45
+[20-Jul-2017 12:54:12 UTC] PHP Stack trace:
+[20-Jul-2017 12:54:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[20-Jul-2017 12:54:12 UTC] PHP   2. delete_db() /home/ubuntu/workspace/public/ajax/ajax.delete.php:11
+[20-Jul-2017 12:54:31 UTC] PHP Warning:  Illegal offset type in unset in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 8
+[20-Jul-2017 12:54:31 UTC] PHP Stack trace:
+[20-Jul-2017 12:54:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[20-Jul-2017 12:54:31 UTC] PHP Warning:  rmdir(../../.data/another-database): No such file or directory in /home/ubuntu/workspace/database-manager/php/general.php on line 90
+[20-Jul-2017 12:54:31 UTC] PHP Stack trace:
+[20-Jul-2017 12:54:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[20-Jul-2017 12:54:31 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[20-Jul-2017 12:54:31 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/php/general.php:90
+[20-Jul-2017 12:54:31 UTC] PHP Warning:  Illegal offset type in unset in /home/ubuntu/workspace/database-manager/php/general.php on line 45
+[20-Jul-2017 12:54:31 UTC] PHP Stack trace:
+[20-Jul-2017 12:54:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[20-Jul-2017 12:54:31 UTC] PHP   2. delete_db() /home/ubuntu/workspace/public/ajax/ajax.delete.php:11
+[20-Jul-2017 12:58:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[20-Jul-2017 12:58:40 UTC] PHP Stack trace:
+[20-Jul-2017 12:58:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[20-Jul-2017 13:02:16 UTC] PHP Warning:  Illegal offset type in unset in /home/ubuntu/workspace/database-manager/php/general.php on line 45
+[20-Jul-2017 13:02:16 UTC] PHP Stack trace:
+[20-Jul-2017 13:02:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[20-Jul-2017 13:02:16 UTC] PHP   2. delete_db() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[20-Jul-2017 13:04:44 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/database-manager/php/general.php on line 45
+[20-Jul-2017 13:04:44 UTC] PHP Stack trace:
+[20-Jul-2017 13:04:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[20-Jul-2017 13:04:44 UTC] PHP   2. delete_db() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[20-Jul-2017 13:04:55 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/database-manager/php/general.php on line 45
+[20-Jul-2017 13:04:55 UTC] PHP Stack trace:
+[20-Jul-2017 13:04:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[20-Jul-2017 13:04:55 UTC] PHP   2. delete_db() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[20-Jul-2017 13:05:42 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/database-manager/php/general.php on line 45
+[20-Jul-2017 13:05:42 UTC] PHP Stack trace:
+[20-Jul-2017 13:05:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[20-Jul-2017 13:05:42 UTC] PHP   2. delete_db() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[03-Aug-2017 14:42:00 UTC] PHP Warning:  include(../../database-manager/php/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 14:42:00 UTC] PHP Stack trace:
+[03-Aug-2017 14:42:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 14:42:00 UTC] PHP Warning:  include(): Failed opening '../../database-manager/php/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 14:42:00 UTC] PHP Stack trace:
+[03-Aug-2017 14:42:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 14:42:00 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[03-Aug-2017 14:42:00 UTC] PHP Stack trace:
+[03-Aug-2017 14:42:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 15:30:25 UTC] PHP Warning:  include(../../database-manager/php/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 15:30:25 UTC] PHP Stack trace:
+[03-Aug-2017 15:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 15:30:25 UTC] PHP Warning:  include(): Failed opening '../../database-manager/php/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 15:30:25 UTC] PHP Stack trace:
+[03-Aug-2017 15:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 15:30:25 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[03-Aug-2017 15:30:25 UTC] PHP Stack trace:
+[03-Aug-2017 15:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 15:32:52 UTC] PHP Warning:  include(../../database-manager/php/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 15:32:52 UTC] PHP Stack trace:
+[03-Aug-2017 15:32:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 15:32:52 UTC] PHP Warning:  include(): Failed opening '../../database-manager/php/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 15:32:52 UTC] PHP Stack trace:
+[03-Aug-2017 15:32:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 15:32:52 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[03-Aug-2017 15:32:52 UTC] PHP Stack trace:
+[03-Aug-2017 15:32:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 15:33:12 UTC] PHP Warning:  include(../../database-manager/php/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 15:33:12 UTC] PHP Stack trace:
+[03-Aug-2017 15:33:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 15:33:12 UTC] PHP Warning:  include(): Failed opening '../../database-manager/php/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 15:33:12 UTC] PHP Stack trace:
+[03-Aug-2017 15:33:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 15:33:12 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[03-Aug-2017 15:33:12 UTC] PHP Stack trace:
+[03-Aug-2017 15:33:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:10:41 UTC] PHP Warning:  include(../../database-manager/php/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 16:10:41 UTC] PHP Stack trace:
+[03-Aug-2017 16:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:10:41 UTC] PHP Warning:  include(): Failed opening '../../database-manager/php/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 16:10:41 UTC] PHP Stack trace:
+[03-Aug-2017 16:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:10:41 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[03-Aug-2017 16:10:41 UTC] PHP Stack trace:
+[03-Aug-2017 16:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:11:02 UTC] PHP Warning:  include(../../database-manager/php/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 16:11:02 UTC] PHP Stack trace:
+[03-Aug-2017 16:11:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:11:02 UTC] PHP Warning:  include(): Failed opening '../../database-manager/php/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 16:11:02 UTC] PHP Stack trace:
+[03-Aug-2017 16:11:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:11:02 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[03-Aug-2017 16:11:02 UTC] PHP Stack trace:
+[03-Aug-2017 16:11:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:11:37 UTC] PHP Warning:  include(../../database-manager/php/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 16:11:37 UTC] PHP Stack trace:
+[03-Aug-2017 16:11:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:11:37 UTC] PHP Warning:  include(): Failed opening '../../database-manager/php/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 16:11:37 UTC] PHP Stack trace:
+[03-Aug-2017 16:11:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:11:37 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[03-Aug-2017 16:11:37 UTC] PHP Stack trace:
+[03-Aug-2017 16:11:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:12:12 UTC] PHP Warning:  include(../../database-manager/php/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 16:12:12 UTC] PHP Stack trace:
+[03-Aug-2017 16:12:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:12:12 UTC] PHP Warning:  include(): Failed opening '../../database-manager/php/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 16:12:12 UTC] PHP Stack trace:
+[03-Aug-2017 16:12:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:12:12 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[03-Aug-2017 16:12:12 UTC] PHP Stack trace:
+[03-Aug-2017 16:12:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:12:44 UTC] PHP Warning:  include(../../database-manager/views/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 16:12:44 UTC] PHP Stack trace:
+[03-Aug-2017 16:12:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:12:44 UTC] PHP Warning:  include(): Failed opening '../../database-manager/views/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 3
+[03-Aug-2017 16:12:44 UTC] PHP Stack trace:
+[03-Aug-2017 16:12:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[03-Aug-2017 16:12:44 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[03-Aug-2017 16:12:44 UTC] PHP Stack trace:
+[03-Aug-2017 16:12:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[11-Sep-2017 03:05:08 UTC] PHP Warning:  include(../../database-manager/views/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[11-Sep-2017 03:05:08 UTC] PHP Stack trace:
+[11-Sep-2017 03:05:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Sep-2017 03:05:08 UTC] PHP Warning:  include(): Failed opening '../../database-manager/views/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[11-Sep-2017 03:05:08 UTC] PHP Stack trace:
+[11-Sep-2017 03:05:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Sep-2017 03:05:08 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 4
+[11-Sep-2017 03:05:08 UTC] PHP Stack trace:
+[11-Sep-2017 03:05:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Sep-2017 03:05:19 UTC] PHP Warning:  include(../../database-manager/views/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[11-Sep-2017 03:05:19 UTC] PHP Stack trace:
+[11-Sep-2017 03:05:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Sep-2017 03:05:19 UTC] PHP Warning:  include(): Failed opening '../../database-manager/views/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[11-Sep-2017 03:05:19 UTC] PHP Stack trace:
+[11-Sep-2017 03:05:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[11-Sep-2017 03:05:19 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 4
+[11-Sep-2017 03:05:19 UTC] PHP Stack trace:
+[11-Sep-2017 03:05:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:14:40 UTC] PHP Warning:  include(../../database-manager/views/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[16-Sep-2017 14:14:40 UTC] PHP Stack trace:
+[16-Sep-2017 14:14:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:14:40 UTC] PHP Warning:  include(): Failed opening '../../database-manager/views/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[16-Sep-2017 14:14:40 UTC] PHP Stack trace:
+[16-Sep-2017 14:14:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:14:40 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 4
+[16-Sep-2017 14:14:40 UTC] PHP Stack trace:
+[16-Sep-2017 14:14:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:14:55 UTC] PHP Warning:  include(../../database-manager/views/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[16-Sep-2017 14:14:55 UTC] PHP Stack trace:
+[16-Sep-2017 14:14:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:14:55 UTC] PHP Warning:  include(): Failed opening '../../database-manager/views/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[16-Sep-2017 14:14:55 UTC] PHP Stack trace:
+[16-Sep-2017 14:14:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:14:55 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 4
+[16-Sep-2017 14:14:55 UTC] PHP Stack trace:
+[16-Sep-2017 14:14:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:14:57 UTC] PHP Warning:  include(../../database-manager/views/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[16-Sep-2017 14:14:57 UTC] PHP Stack trace:
+[16-Sep-2017 14:14:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:14:57 UTC] PHP Warning:  include(): Failed opening '../../database-manager/views/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[16-Sep-2017 14:14:57 UTC] PHP Stack trace:
+[16-Sep-2017 14:14:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:14:57 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 4
+[16-Sep-2017 14:14:57 UTC] PHP Stack trace:
+[16-Sep-2017 14:14:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:15:01 UTC] PHP Warning:  include(../../database-manager/views/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[16-Sep-2017 14:15:01 UTC] PHP Stack trace:
+[16-Sep-2017 14:15:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:15:01 UTC] PHP Warning:  include(): Failed opening '../../database-manager/views/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[16-Sep-2017 14:15:01 UTC] PHP Stack trace:
+[16-Sep-2017 14:15:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:15:01 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 4
+[16-Sep-2017 14:15:01 UTC] PHP Stack trace:
+[16-Sep-2017 14:15:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:18:02 UTC] PHP Warning:  include(../../database-manager/views/general.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[16-Sep-2017 14:18:02 UTC] PHP Stack trace:
+[16-Sep-2017 14:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:18:02 UTC] PHP Warning:  include(): Failed opening '../../database-manager/views/general.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 3
+[16-Sep-2017 14:18:02 UTC] PHP Stack trace:
+[16-Sep-2017 14:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:18:02 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.delete.php on line 4
+[16-Sep-2017 14:18:02 UTC] PHP Stack trace:
+[16-Sep-2017 14:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:19:50 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:19:50 UTC] PHP Stack trace:
+[16-Sep-2017 14:19:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:19:50 UTC] PHP   2. delete_db() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[16-Sep-2017 14:19:50 UTC] PHP   3. get_database_dir() /home/ubuntu/workspace/database-manager/general.php:42
+[16-Sep-2017 14:19:50 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:19:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/database-manager/general.php on line 43
+[16-Sep-2017 14:19:50 UTC] PHP Stack trace:
+[16-Sep-2017 14:19:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:19:50 UTC] PHP   2. delete_db() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[16-Sep-2017 14:19:50 UTC] PHP Warning:  file_put_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 49
+[16-Sep-2017 14:19:50 UTC] PHP Stack trace:
+[16-Sep-2017 14:19:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:19:50 UTC] PHP   2. delete_db() /home/ubuntu/workspace/public/ajax/ajax.delete.php:10
+[16-Sep-2017 14:19:50 UTC] PHP   3. file_put_contents() /home/ubuntu/workspace/database-manager/general.php:49
+[16-Sep-2017 14:19:50 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:19:50 UTC] PHP Stack trace:
+[16-Sep-2017 14:19:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:19:50 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:4
+[16-Sep-2017 14:19:50 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:19:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:19:50 UTC] PHP Stack trace:
+[16-Sep-2017 14:19:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:20:52 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:20:52 UTC] PHP Stack trace:
+[16-Sep-2017 14:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:20:52 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:4
+[16-Sep-2017 14:20:52 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:20:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:20:52 UTC] PHP Stack trace:
+[16-Sep-2017 14:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:22:33 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:22:33 UTC] PHP Stack trace:
+[16-Sep-2017 14:22:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:22:33 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:4
+[16-Sep-2017 14:22:33 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:22:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:22:33 UTC] PHP Stack trace:
+[16-Sep-2017 14:22:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:22:36 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:22:36 UTC] PHP Stack trace:
+[16-Sep-2017 14:22:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:22:36 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:4
+[16-Sep-2017 14:22:36 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:22:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:22:36 UTC] PHP Stack trace:
+[16-Sep-2017 14:22:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:25:40 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:25:40 UTC] PHP Stack trace:
+[16-Sep-2017 14:25:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:25:40 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:4
+[16-Sep-2017 14:25:40 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:25:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:25:40 UTC] PHP Stack trace:
+[16-Sep-2017 14:25:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:25:52 UTC] PHP Warning:  file_get_contents(/home/ubuntu/workspace/.data/databases.json): failed to open stream: No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 4
+[16-Sep-2017 14:25:52 UTC] PHP Stack trace:
+[16-Sep-2017 14:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:25:52 UTC] PHP   2. get_database_dir() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:4
+[16-Sep-2017 14:25:52 UTC] PHP   3. file_get_contents() /home/ubuntu/workspace/database-manager/general.php:4
+[16-Sep-2017 14:25:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:25:52 UTC] PHP Stack trace:
+[16-Sep-2017 14:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:28:12 UTC] PHP Warning:  rmdir(../../.data/): No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 90
+[16-Sep-2017 14:28:12 UTC] PHP Stack trace:
+[16-Sep-2017 14:28:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:28:12 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:9
+[16-Sep-2017 14:28:12 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/general.php:90
+[16-Sep-2017 14:42:49 UTC] PHP Warning:  rmdir(../../.data/test-db-4): No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 90
+[16-Sep-2017 14:42:49 UTC] PHP Stack trace:
+[16-Sep-2017 14:42:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:42:49 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:9
+[16-Sep-2017 14:42:49 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/general.php:90
+[16-Sep-2017 14:43:03 UTC] PHP Warning:  rmdir(../../.data/test-db-3): No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 90
+[16-Sep-2017 14:43:03 UTC] PHP Stack trace:
+[16-Sep-2017 14:43:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:43:03 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:9
+[16-Sep-2017 14:43:03 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/general.php:90
+[16-Sep-2017 14:43:19 UTC] PHP Warning:  rmdir(../../.data/test-db): No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 90
+[16-Sep-2017 14:43:19 UTC] PHP Stack trace:
+[16-Sep-2017 14:43:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:43:19 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:9
+[16-Sep-2017 14:43:19 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/general.php:90
+[16-Sep-2017 14:44:47 UTC] PHP Warning:  rmdir(../../.data/db-test-1): No such file or directory in /home/ubuntu/workspace/database-manager/general.php on line 90
+[16-Sep-2017 14:44:47 UTC] PHP Stack trace:
+[16-Sep-2017 14:44:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.delete.php:0
+[16-Sep-2017 14:44:47 UTC] PHP   2. removeDirectory() /home/ubuntu/workspace/public/ajax/ajax.delete.php:9
+[16-Sep-2017 14:44:47 UTC] PHP   3. rmdir() /home/ubuntu/workspace/database-manager/general.php:90
+[16-Sep-2017 14:45:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:45:11 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:45:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:45:57 UTC] PHP Stack trace:
+[16-Sep-2017 14:45:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:46:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:46:10 UTC] PHP Stack trace:
+[16-Sep-2017 14:46:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:48:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:48:10 UTC] PHP Stack trace:
+[16-Sep-2017 14:48:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:49:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:49:23 UTC] PHP Stack trace:
+[16-Sep-2017 14:49:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:50:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:50:04 UTC] PHP Stack trace:
+[16-Sep-2017 14:50:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:50:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:50:58 UTC] PHP Stack trace:
+[16-Sep-2017 14:50:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:51:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:51:33 UTC] PHP Stack trace:
+[16-Sep-2017 14:51:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:53:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:53:49 UTC] PHP Stack trace:
+[16-Sep-2017 14:53:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:55:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:55:38 UTC] PHP Stack trace:
+[16-Sep-2017 14:55:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 14:56:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 14:56:29 UTC] PHP Stack trace:
+[16-Sep-2017 14:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
+[16-Sep-2017 15:08:57 UTC] PHP Fatal error:  Call to undefined function get_database_dir() in /home/ubuntu/workspace/public/ajax/ajax.dashboard.php on line 4
+[16-Sep-2017 15:08:57 UTC] PHP Stack trace:
+[16-Sep-2017 15:08:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/ajax/ajax.dashboard.php:0
